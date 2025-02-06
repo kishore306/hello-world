@@ -1,0 +1,5 @@
+java notes
+
+- install git 
+- install jdk
+-install maven
